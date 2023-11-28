@@ -10,7 +10,8 @@
 ### Important Notice:
 - Our Project Is Open-Sourced, Possible Due To All Testers & Contributers. Thanks For Making This Project Possible!
 - Please Read All Project Changelogs & Features Before Flashing Our Stuff!
-- Join Our Support Groups For Better Experience, Proper Flashing Guides & Faster Updates.
+- Join Our Support Groups For Better Experience, Proper Flashing Guides & Faster Updates
+- Our Updates System Is Limited For Certain Device(s) Only, We Will Be Needing Audience & Developers Support To Provide Support For Other Devices Too!
 
 ### Project Contributer(s):
 - [BlazeWizardOP](https://t.me/blazewizardop)
@@ -26,19 +27,28 @@
 - [Nothing Phone (2) Global Support](https://t.me/NothingPhone2)
 - [NothingOS Phone (2) India Support](https://t.me/NothingPhone2_IN)
 
+### Current Supported Device(s):
+- Nothing Phone (2) | PONG
+
 <!-- ############################# -->
 <!-- Start Segment 02 Of README.MD -->
 <!-- ############################# -->
 
 ## NothingOS Updater Features:
+- We Have Made Flashing Better & More Easier To Access Onto.
+- Provided Unified Flashing Packages On All Variants Global | India | EEA
+- Simultaneous Features Been Developed To Make Recovery Flashing More Easier
+  - RapidFlasher™ - Flashing Should Complete Within 2 Minutes Now!
+  - PartitionFlasher™ - Now Users Can Modify The Images They Want To Flash By Modifying Flashing Binary!
+  - SlotFlasher™ - Now Users Can Directly Modify To Which Slot They Want To Flash Package On!
+  - SlotNotifier™ - This Feature Notifies User That They Are Flashing To Slot _a And If There Slot _b is active, they will be notified to change slots!
 
 <!-- ############################# -->
 <!-- Start Segment 03 Of README.MD -->
 <!-- ############################# -->
 
-## Project Documentation: 
-- We Have Made Flashing Better & More Easier To Access Onto.
-- We Provide Unified Flashing Packages On All Variants Global | India | EEA
+## NothingOS Updater Documentation:
+
 ### Package Schema:
 - [AIO] {All-In-One | Package That Contains Fastboot & Recovery Flashing Support Both!}
 - [R] {Recovery | Package That Contains Only Support Of Recovery Flashing Support!}
@@ -47,6 +57,11 @@
 ### Changelogs:
 - All The Changelogs Can Be Found On Our Releases Page.
 - Changelogs Are Divided Properly For Fastboot & Recovery.
+
+### How To Use NothingOS Updater Flashing Features:
+- These Features Are Effective Only If You Flash Via Recovery!
+- These Features Are Only Insisted To Use For Advanced Users!
+- Head To package.zip/META_INF/com/google/android/update-binary File, Scroll Down You Will Find Proper Guide How To Modify Flashing Slots & Flashing Images.
 
 ### How To Use Our Package:
 - You Can Follow Below Tutorial Or See This [Youtube Tutorial](https://www.youtube.com) For Better Visual Guides!
