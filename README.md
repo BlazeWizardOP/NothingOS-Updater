@@ -38,10 +38,39 @@
 - We Have Made Flashing Better & More Easier To Access Onto.
 - Provided Unified Flashing Packages On All Variants Global | India | EEA
 - Simultaneous Features Been Developed To Make Recovery Flashing More Easier
-  - RapidFlasher™ - Flashing Should Complete Within 2 Minutes Now!
-  - PartitionFlasher™ - Now Users Can Modify The Images They Want To Flash By Modifying Flashing Binary!
-  - SlotFlasher™ - Now Users Can Directly Modify To Which Slot They Want To Flash Package On!
-  - SlotNotifier™ - This Feature Notifies User That They Are Flashing To Slot _a And If There Slot _b is active, they will be notified to change slots!
+```
+  [1] RapidFlasher™:
+      Flashing Should Complete Within 2 Minutes Now!
+  [2] PartitionFlasher™:
+      Now Users Can Modify The Images They Want To Flash By Modifying Flashing Binary! More Information In Project Documentation Segment
+      (Feature Recommended To Used By Advanced Users Only!) 
+  [3] SlotFlasher™:
+      Now Users Can Directly Modify To Which Slot They Want To Flash Package On!
+  [4] SlotNotifier™:
+      (EXAMPLE:)
+      (user slot active: _a) (flashing to slot _b)
+      This Feature Will Notify User Automatically After Flash Is Complete To Switch To Slot They Flashed OTA On!
+  [5] DeviceDetector™:
+      The Flash Will Only Proceed If The Device Has Been Detected As Pong / PongIND / Pong EEA Variants.
+  [6] AdvancedLogger™:
+      Flashing Logs Will Be Saved In Internal Storage Automatically Once The Flash Ends With/out Error.
+      Head to: /InternalStorage/NothingOSUpdater.log
+      Logs will automatically detect if the flash was not successfull with appropriate reason(s).
+      Logs will automatically detect NothingOS Version being flashed.
+      Logs will automatically detect is user advanced or normal.
+      Logs will automatically detect the partitions opted for flashing
+      Logs will automatically note down partitions been flashed to device
+      Logs will automatically detect flashing and active slots.
+- Made Binaries More Compact And Better.
+- Improved Filing Structures.
+```
+- Simultaneous Features Been Developed To Make Fastboot Flashing More Easier
+```
+[1] Modified @HellBoy017's Fastboot Flasher Script.
+[2] Fixed ImagesDirectory Detection For Flashing
+[3] Removed support of .log file, as it was crashing flashing script
+[4] Added Our Own Goodies...
+```
 
 <!-- ############################# -->
 <!-- Start Segment 03 Of README.MD -->
