@@ -108,4 +108,5 @@
 - Run The Batch (.bat) File Present In This Folder As Administrator Via Windows Powershell.
 - Plug In Your Device With Laptop/Desktop In Fastboot Mode.
 - Once Flash Is Done Device Will Reboot Automatically! :)
+
 ### Thanks For Trying Our Stuff!!
